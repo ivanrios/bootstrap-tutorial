@@ -1,0 +1,36 @@
+header {height: 50px}
+footer { background: #333; color: #CCC; padding: 40px;}
+
+
+
+.logo {height: 50px; margin-top: -20px;}
+
+.morado { background: #65326b }
+.morado h1 {color: #FFF; text-align: center} 
+.morado h4 {color: #FFF; text-align: center; font-weight: normal; margin-top:20px;} 
+
+.morado .btn {margin: auto;}
+.morado p {text-align: center; margin-top:40px}
+
+.comentarios {margin-left: 40px; margin-right: 40px}
+.comentarios img {border: 5px solid #CCC}
+.comentarios blockquote {margin-top: 20px; float:left}
+
+.descripcion {background: #65326b; padding-top: 40px; padding-bottom: 40px;}
+.descripcion p {color: #FFF; text-align: justify; font-size: 1.25em }
+.descripcion .video {margin-bottom: 30px }
+.descripcion h2 {color: #FFF; text-align: center; margin-bottom: 30px} 
+
+.beneficios {margin: 40px}
+.beneficios p {font-size: 1.5em; margin-top: 20px; margin-bottom: 20px}
+.beneficios li {font-size: 1.25em; margin-top: 20px;}
+.beneficios li:before {color: orange};
+.beneficios ul {margin-top: 40px}
+
+
+.demo { background: #EEE; padding: 40px 0px 40px 0px; }
+.demo p {text-align: center; margin-top:40px}
+.demo h2 {text-align: center} 
+
+
+
