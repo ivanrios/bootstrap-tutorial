@@ -5,4 +5,8 @@ www/landing-paso3.html
 www/landing-paso4.html
 www/landing-paso5.html
 www/landing-paso6.html
+<<<<<<< Updated upstream
 /node_modules
+=======
+node_modules/
+>>>>>>> Stashed changes
